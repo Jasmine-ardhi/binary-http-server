@@ -1,0 +1,14 @@
+# Compiled executables
+observe
+bcurl
+bad_request_test
+unknown_frame_test
+
+# Build artifacts
+*.o
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*~
